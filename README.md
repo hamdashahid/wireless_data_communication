@@ -20,7 +20,7 @@ Bluetooth Data Receiver is a Flutter application designed to receive data from B
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Bluetooth-Data-Receiver.git
+    git clone https://github.com/hamdashahid/wireless_data_communication.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -67,3 +67,7 @@ The main components of the app are:
 
 For more information, visit the [official Flutter documentation](https://flutter.dev/docs).
 
+
+## Copyright
+
+© 2023 Hamda Shahid. All rights reserved.
